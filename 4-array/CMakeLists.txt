@@ -1,0 +1,8 @@
+add_executable(little_big_converter little_big_converter/test.c)
+add_executable(more_on_left more_on_left/test.c)
+add_executable(det det/test.c)
+add_executable(max_local_min max_local_min/test.c)
+add_executable(robot robot/test.c)
+add_executable(kernel kernel/test.c)
+add_executable(get_percent get_percent/test.c)
+add_executable(find_hole find_hole/test.c)
