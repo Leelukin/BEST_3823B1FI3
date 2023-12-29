@@ -1,5 +1,6 @@
 bool point_in_rectangle(double x, double y) {
-    return false; // Not implementation
+    
+    return false;
 }
 
 bool point_in_square(double x, double y) {
